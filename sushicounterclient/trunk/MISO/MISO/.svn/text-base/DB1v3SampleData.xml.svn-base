@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReportResponse xmlns="http://www.niso.org/schemas/sushi/counter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.niso.org/schemas/sushi/counter http://www.niso.org/schemas/sushi/counter_sushi3_0.xsd"
+	xmlns:s="http://www.niso.org/schemas/sushi">
+  <s:Requestor>
+    <s:ID></s:ID>
+    <s:Name></s:Name>
+    <s:Email></s:Email>
+  </s:Requestor>
+  <s:CustomerReference>
+    <s:ID>3</s:ID>
+    <!--Name is Optional:-->
+    <s:Name />
+  </s:CustomerReference>
+  <s:ReportDefinition Name="JR1" Release="3">
+    <s:Filters>
+      <s:UsageDateRange>
+        <s:Begin>2009-01-01</s:Begin>
+        <s:End>2009-03-31</s:End>
+      </s:UsageDateRange>
+    </s:Filters>
+  </s:ReportDefinition>
+  <Report>
+    <Report Created="2009-05-14T11:50:04Z" ID="SomeId" Name="DB1 Sample" Title=" Total Searches and Sessions by Month and Database" Version="3" xmlns="http://www.niso.org/schemas/counter">
+      <Vendor>
+        <Name>DB 1 Sample</Name>
+        <ID>Vendor ID</ID>
+        <Contact>
+          <E-mail>sample@email.com</E-mail>
+        </Contact>
+      </Vendor>
+      <Customer>
+        <Name>Customer Name</Name>
+        <ID>Customer ID</ID>
+        <!-- Consortium is optional -->
+        <Consortium>
+          <Code>Consortium Code</Code>
+          <WellKnownName>Consortium's WellKnownName</WellKnownName>
+        </Consortium>
+        <ReportItems>
+          <ItemIdentifier>
+            <Type>Proprietary</Type>
+            <Value>Sample Identifier</Value>
+          </ItemIdentifier>
+          <ItemPlatform>Platform Z</ItemPlatform>
+          <ItemPublisher>Publisher X</ItemPublisher>
+          <ItemName>Database AA</ItemName>
+          <ItemDataType>Database</ItemDataType>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-01-01</Begin>
+              <End>2009-01-31</End>
+            </Period>
+            <Category>Searches</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>2322</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-01-01</Begin>
+              <End>2009-01-31</End>
+            </Period>
+            <Category>Sessions</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>1821</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-02-01</Begin>
+              <End>2009-02-28</End>
+            </Period>
+            <Category>Searches</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>2520</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-02-01</Begin>
+              <End>2009-02-28</End>
+            </Period>
+            <Category>Sessions</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>1929</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-03-01</Begin>
+              <End>2009-03-31</End>
+            </Period>
+            <Category>Searches</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>2742</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-03-01</Begin>
+              <End>2009-03-31</End>
+            </Period>
+            <Category>Sessions</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>2211</Count>
+            </Instance>
+          </ItemPerformance>
+        </ReportItems>
+        <ReportItems>
+          <ItemIdentifier>
+            <Type>Proprietary</Type>
+            <Value>Sample Identifier</Value>
+          </ItemIdentifier>
+          <ItemPlatform>Platform Z</ItemPlatform>
+          <ItemPublisher>Publisher Y</ItemPublisher>
+          <ItemName>Database BB</ItemName>
+          <ItemDataType>Database</ItemDataType>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-01-01</Begin>
+              <End>2009-01-31</End>
+            </Period>
+            <Category>Searches</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>3466</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-01-01</Begin>
+              <End>2009-01-31</End>
+            </Period>
+            <Category>Sessions</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>1987</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-02-01</Begin>
+              <End>2009-02-28</End>
+            </Period>
+            <Category>Searches</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>3210</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-02-01</Begin>
+              <End>2009-02-28</End>
+            </Period>
+            <Category>Sessions</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>2200</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-03-01</Begin>
+              <End>2009-03-31</End>
+            </Period>
+            <Category>Searches</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>4459</Count>
+            </Instance>
+          </ItemPerformance>
+          <ItemPerformance>
+            <Period>
+              <Begin>2009-03-01</Begin>
+              <End>2009-03-31</End>
+            </Period>
+            <Category>Sessions</Category>
+            <Instance>
+              <MetricType>count</MetricType>
+              <Count>2544</Count>
+            </Instance>
+          </ItemPerformance>
+        </ReportItems>
+      </Customer>
+    </Report>
+  </Report>
+</ReportResponse>

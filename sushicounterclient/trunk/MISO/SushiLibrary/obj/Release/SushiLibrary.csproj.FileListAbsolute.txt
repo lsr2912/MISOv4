@@ -1,0 +1,5 @@
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\SushiLibrary\bin\Release\SushiLibrary.dll
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\SushiLibrary\bin\Release\SushiLibrary.pdb
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\SushiLibrary\obj\Release\SushiLibrary.dll
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\SushiLibrary\obj\Release\SushiLibrary.pdb
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\SushiLibrary\obj\Release\SushiLibrary.csprojResolveAssemblyReference.cache

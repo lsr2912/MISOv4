@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/20/trunk/MISO/SushiLibrary/Validation
+END
+SushiValidator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/20/trunk/MISO/SushiLibrary/Validation/SushiValidator.cs
+END
+ValidationRule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/20/trunk/MISO/SushiLibrary/Validation/ValidationRule.cs
+END
+CounterValidator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/20/trunk/MISO/SushiLibrary/Validation/CounterValidator.cs
+END

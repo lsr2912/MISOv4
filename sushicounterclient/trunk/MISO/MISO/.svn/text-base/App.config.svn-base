@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <system.net>
+    <defaultProxy useDefaultCredentials="true">
+      <proxy usesystemdefault="True" bypassonlocal="True"/>
+    </defaultProxy>
+  </system.net>
+</configuration>

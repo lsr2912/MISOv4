@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/35/trunk/MISO/MISO
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/MISO/MISO/App.config
+END
+MISO.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/MISO/MISO/MISO.csproj
+END
+SushiSoapEnv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/MISO/MISO/SushiSoapEnv.xml
+END
+WSSecurityPlainText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/MISO/MISO/WSSecurityPlainText.xml
+END
+DB1v3SampleData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25/trunk/MISO/MISO/DB1v3SampleData.xml
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/35/trunk/MISO/MISO/Program.cs
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/14/trunk/MISO/MISO/README.txt
+END
+sushiconfig.csv
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/MISO/MISO/sushiconfig.csv
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/20/trunk/MISO/MISO/LICENSE.txt
+END
+JR1v3SampleData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/25/trunk/MISO/MISO/JR1v3SampleData.xml
+END

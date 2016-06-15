@@ -1,0 +1,6 @@
+<wsse:Security>
+    <wsse:UsernameToken>
+        <wsse:Username>{0}</wsse:Username>
+        <wsse:Password>{1}</wsse:Password>
+    </wsse:UsernameToken>
+</wsse:Security>

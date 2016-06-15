@@ -1,0 +1,8 @@
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\bin\Release\MISO.exe.config
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\obj\Release\MISO.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\bin\Release\MISO.exe
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\bin\Release\MISO.pdb
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\bin\Release\SushiLibrary.dll
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\bin\Release\SushiLibrary.pdb
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\obj\Release\MISO.exe
+C:\Users\Scott\Desktop\VIVA\MISO\miso-source\sushicounterclient\trunk\MISO\MISO\obj\Release\MISO.pdb
