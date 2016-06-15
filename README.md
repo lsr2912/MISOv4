@@ -8,5 +8,5 @@ This code was extended and constructed using the Community 2015 version of Micro
 represents a decent, albeit amature, attempt to support the COUNTER-4 set of reports within a runtime
 environment similar to the original MISO application.
 
-There is much room forimprovement here, and more eyes, attention, and testing are needed since the
+There is much room for improvement here, and more eyes, attention, and testing are needed since the
 code will only be thoroughly exercised after hitting multiple vendor Sushi targets and report-types.
