@@ -2,7 +2,7 @@
 Branched version of Serials Solutions MISO Sushi client to support COUNTER v4 report set
 
 Anne Osterman at the VIrtual Library of Virginia was generous enough to support the development
-and extension of the the original Serials Solutions MISO client (found here : http://www.niso.org/sushi).
+and extension of the original Serials Solutions MISO client (found here : http://www.niso.org/sushi).
 
 This code was extended and constructed using the Community 2015 version of Microsoft Visual Studio, and
 represents a decent, albeit amature, attempt to support the COUNTER-4 set of reports within a runtime
