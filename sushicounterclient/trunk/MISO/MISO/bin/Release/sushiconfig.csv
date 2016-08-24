@@ -1,8 +1,2 @@
 Library Code,Provider Name,Release,URL,Requestor ID,Requestor Name,Requestor E-Mail,Customer ID,Customer Name,JR1,JR1GOA,JR2,JR5,DB1,DB2,PR1,BR1,BR2,BR3,BR4,BR5,MR1,CR1,CR2,CR3,WSSE Username (Proquest only),WSSE Password (Proquest Only)
 Lib1,Euclid,4,http://projecteuclid.org/sushi/16/service.cgi,demo,?,?,demo,?,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,
-CWM,APA,4,http://sushi4.scholarlyiq.com/SushiService.svc,82B6F875-7AF1-42F3-9073-4FCEC8DA1E39,Virtual Library of Virginia,viva@gmu.edu,683490,College of William And Mary,y,n,n,y,n,n,n,n,y,y,n,n,n,n,n,n,,
-VIVA,Nature,4,http://sushi.mpsinsight.com/counter_sushi4_0/services/SushiService,viva@gmu.edu,VIVA,viva@gmu.edu,npg_VIVA,VIVA,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,
-VIVA,Springer,4,http://services.springer.com/sushi,viva@gmu.edu,VIVA,viva@gmu.edu,8200832093,VIVA,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,
-VIVA,Annual Reviews,4,http://www.annualreviews.org/api/soap/analytics/SushiService,vivaar,VIVA,viva@gmu.edu,369018,VIVA,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,
-GMU,Ebsco,4,http://sushi.ebscohost.com/r4/SushiService.svc,44c32f34-c0d2-48dc-87d0-7f91906e7f71,Virtual Library of Virginia,viva@gmu.edu,s8325123,GEORGE MASON UNIVERSITY,y,n,n,n,n,n,n,y,n,y,n,n,n,n,n,n,,
-LIBERTY,Ebsco,4,http://sushi.ebscohost.com/r4/SushiService.svc,364cc1d2-1fcc-4f98-af69-a45593bf6ee4,Virtual Library of Virginia,viva@gmu.edu,liberty,LIBERTY UNIVERSITY,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,,
