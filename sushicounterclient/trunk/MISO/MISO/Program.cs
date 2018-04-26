@@ -157,10 +157,10 @@ MISO.EXE [-v] [filename] [-d] [start] [end] [-l] [Library codes separated by com
             StreamReader sr = new StreamReader(sushiConfig);
 
             //initiate validation
-            XmlSchema CounterSushiSchema = XmlSchema.Read(new XmlTextReader(CounterSchemaURL), new ValidationEventHandler(CounterV41ValidationEventHandler));
-            XmlReaderSettings.ValidationType = ValidationType.Schema;
-            XmlReaderSettings.Schemas.Add(CounterSushiSchema);
-            XmlReaderSettings.ValidationEventHandler += new ValidationEventHandler(CounterV41ValidationEventHandler);
+            // XmlSchema CounterSushiSchema = XmlSchema.Read(new XmlTextReader(CounterSchemaURL), new ValidationEventHandler(CounterV41ValidationEventHandler));
+            // XmlReaderSettings.ValidationType = ValidationType.Schema;
+            // XmlReaderSettings.Schemas.Add(CounterSushiSchema);
+            // XmlReaderSettings.ValidationEventHandler += new ValidationEventHandler(CounterV41ValidationEventHandler);
 
             try
             {
@@ -169,6 +169,12 @@ MISO.EXE [-v] [filename] [-d] [start] [end] [-l] [Library codes separated by com
                 // validate file mode
                 if ((ValidateMode || StrictValidateMode) && !string.IsNullOrEmpty(validateFile))
                 {
+                    //initiate validation
+                    XmlSchema CounterSushiSchema = XmlSchema.Read(new XmlTextReader(CounterSchemaURL), new ValidationEventHandler(CounterV41ValidationEventHandler));
+                    XmlReaderSettings.ValidationType = ValidationType.Schema;
+                    XmlReaderSettings.Schemas.Add(CounterSushiSchema);
+                    XmlReaderSettings.ValidationEventHandler += new ValidationEventHandler(CounterV41ValidationEventHandler);
+
                     using (XmlReader xmlReader = XmlReader.Create(new XmlTextReader(validateFile), XmlReaderSettings))
                     {
 
@@ -471,7 +477,9 @@ MISO.EXE [-v] [filename] [-d] [start] [end] [-l] [Library codes separated by com
             {
                 case "JR1":
                     tw.WriteLine("Journal Report 1 (R4),Number of Successful Full-Text Article Requests by Month and Journal");
-                    tw.WriteLine(fields[0]);
+                    // tw.WriteLine(fields[0]);
+                    tw.WriteLine(fields[5]);
+                    tw.WriteLine(fields[7]);
                     tw.WriteLine("Period covered by report");
                     tw.WriteLine(startDateStr + " to " + endDateStr);
                     tw.WriteLine("Date run:");
